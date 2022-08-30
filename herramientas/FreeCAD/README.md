@@ -5,4 +5,4 @@ En este espacio subiré todos los materiales pertinentes que voy utilizando para
 
 #### Etapa 1: Conocimientos básicos
 
-Etapa dedicada a aprender los **conocimientos básicos** sobre FreeCAD, así como la creación, diseño y edición de partes siguiendo los [tutoriales de Youtube del profesor Juan González Gómez](https://www.youtube.com/watch?v=2_DbFzFV9D4&list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf)
+Etapa dedicada a aprender los **conocimientos básicos** sobre FreeCAD, así como la creación, diseño y edición de partes siguiendo los [tutoriales de Youtube](https://www.youtube.com/watch?v=2_DbFzFV9D4&list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf) del profesor **Juan González Gómez**
