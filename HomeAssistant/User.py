@@ -17,6 +17,3 @@ class User:
         return userstr
 
 
-usertest = User()
-a = usertest.setusername("Pepito")
-print(f"{usertest}")
