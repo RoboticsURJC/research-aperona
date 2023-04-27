@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}Sección primera}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Subsección primera}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Subsección tercera}{1}{}%
+\contentsline {section}{\numberline {2}Sección segunda}{1}{}%
